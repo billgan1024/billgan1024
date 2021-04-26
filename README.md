@@ -10,4 +10,4 @@ Feel free to contact me for suggestions or if my applications aren't working :D
 * Email: [`billgan12345@gmail.com`](mailto:billgan12345@gmail.com)
 * Discord: `pblpbl#5115`
 
-[![Pbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pblpbl1024&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pblpbl1024&bg_color=30,0093E9,80D0C7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
