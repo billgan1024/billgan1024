@@ -1,6 +1,9 @@
 ## pblpbl's Profile
 
+[![Pbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pblpbl1024)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pblpbl1024.pblpbl1024)
+
 
 ### Projects I'm currently working on
 * [Escape: An Action Platformer](https://github.com/pblpbl1024/escape)
