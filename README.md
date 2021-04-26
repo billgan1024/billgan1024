@@ -4,6 +4,7 @@
 
 ### Projects I'm currently working on
 * [Escape: An Action Platformer](https://github.com/pblpbl1024/escape)
+* [ReminderBot: A Lightweight Reminder Manager for Discord]((https://github.com/pblpbl1024/reminder-bot)
 
 ### Contact
 Feel free to contact me for suggestions or if my applications aren't working :D
