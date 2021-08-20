@@ -1,7 +1,9 @@
-## pblpbl's Profile
+## Welcome!
+![profile gif](https://github.com/pblpbl1024/pblpbl1024/blob/main/profile.gif)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pblpbl1024.pblpbl1024)
 
-### [Website](https://pblpbl1024.github.io)
+### [My website](https://pblpbl1024.github.io)
 
 
 ### Projects I'm currently working on
