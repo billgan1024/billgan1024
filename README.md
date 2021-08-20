@@ -13,4 +13,4 @@ Feel free to contact me for suggestions or if my applications aren't working :D
 * Email: [`billgan12345@gmail.com`](mailto:billgan12345@gmail.com)
 * Discord: `pblpbl#5115`
 
-![Pbl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pblpbl1024&theme=gotham)
+![Bill Gan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pblpbl1024&theme=gotham)
