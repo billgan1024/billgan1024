@@ -1,7 +1,7 @@
 ## Welcome!
 ![profile gif](https://github.com/pblpbl1024/pblpbl1024/blob/main/profile.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pblpbl1024.pblpbl1024)
+![visitors](https://page-views.glitch.me/badge?page_id=pblpbl1024.pblpbl1024)
 
 ### [My website](https://pblpbl1024.github.io)
 
