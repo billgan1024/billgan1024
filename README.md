@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Welcome!</h2>
 <a href="https://billgan1024.github.io">
   <img src="https://github.com/billgan1024/billgan1024/blob/main/profile.gif"/>
  </a>
@@ -9,7 +8,7 @@ competitive programming, machine learning, and augmented/virtual reality.
 
 ![visitors](https://page-views.glitch.me/badge?page_id=billgan1024.billgan1024)
 
-  <h2><a href="https://billgan1024.github.io">My website</a></h2>
+<a href="https://billgan1024.github.io">My website</a>
 
 
 
@@ -26,13 +25,15 @@ competitive programming, machine learning, and augmented/virtual reality.
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity"/>
 
-  <h2>Stats</h2>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=billgan1024&theme=gotham&show_icons=true)" alt="Bill Gan's GitHub Stats" />
 
 <h2>Contact</h2>
 <a href="https://www.linkedin.com/in/billgan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/pblpbl2k21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <img src="https://img.shields.io/badge/pblpbl%235115-%235865F2.svg?&style=flat-square&logo=discord&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Email-billgan12345%40gmail.com-informational" alt="Email">
+<a href="mailto:billgan12345@gmail.com"><img src="https://img.shields.io/badge/Email-billgan12345%40gmail.com-informational" alt="Email"></a>
+
+<h3>Check out my projects below!</h3>
 
 </div>
