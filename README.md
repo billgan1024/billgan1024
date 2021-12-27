@@ -12,9 +12,6 @@
 <a href="https://github.com/pblpbl1024/escape">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=pblpbl1024&repo=escape&theme=gotham&show_owner=true"/>
 </a>
-<a href="https://github.com/pblpbl1024/reminder-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pblpbl1024&repo=reminder-bot&theme=gotham"/>
-</a>
 
 ### Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pblpbl1024&theme=gotham&show_icons=true)" alt="Bill Gan's GitHub Stats" />
