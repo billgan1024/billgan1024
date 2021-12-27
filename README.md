@@ -1,4 +1,5 @@
 <div align="center">
+  <h2>Welcome!</h2>
 <a href="https://billgan1024.github.io">
   <img src="https://github.com/billgan1024/billgan1024/blob/main/profile.gif"/>
  </a>
@@ -8,9 +9,7 @@ competitive programming, machine learning, and augmented/virtual reality.
 
 ![visitors](https://page-views.glitch.me/badge?page_id=billgan1024.billgan1024)
 
-<a href="https://billgan1024.github.io">My website</a>
-
-
+  <h2><a href="https://billgan1024.github.io">My website</a></h2>
 
 <h2>Tech Stack</h2>
 <img src="https://img.shields.io/badge/Gamemaker: Studio 2-05122A.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC">
@@ -33,7 +32,5 @@ competitive programming, machine learning, and augmented/virtual reality.
 <a href="https://www.instagram.com/pblpbl2k21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <img src="https://img.shields.io/badge/pblpbl%235115-%235865F2.svg?&style=flat-square&logo=discord&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:billgan12345@gmail.com"><img src="https://img.shields.io/badge/Email-billgan12345%40gmail.com-informational" alt="Email"></a>
-
-<h3>Check out my projects below!</h3>
 
 </div>
