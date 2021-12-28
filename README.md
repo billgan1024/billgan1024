@@ -13,8 +13,9 @@ competitive programming, machine learning, and augmented/virtual reality.
 
 <h2>Tech Stack</h2>
 <img src="https://img.shields.io/badge/Gamemaker: Studio 2-05122A.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC">
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
 <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
