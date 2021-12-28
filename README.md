@@ -29,8 +29,8 @@ competitive programming, machine learning, and augmented/virtual reality.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=billgan1024&theme=gotham&show_icons=true)" alt="Bill Gan's GitHub Stats" />
 
 <h2>Contact</h2>
-<a href="https://www.linkedin.com/in/billgan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/pblpbl2k21" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/billgan" target="_blank"><img src="https://img.shields.io/badge/billgan-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/pblpbl2k21" target="_blank"><img src="https://img.shields.io/badge/pblpbl2k21-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <img src="https://img.shields.io/badge/pblpbl%235115-%235865F2.svg?&style=flat-square&logo=discord&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:billgan12345@gmail.com"><img src="https://img.shields.io/badge/Email-billgan12345%40gmail.com-informational" alt="Email"></a>
 
