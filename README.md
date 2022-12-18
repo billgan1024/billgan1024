@@ -7,8 +7,6 @@
  Hi, I'm Bill Gan. I'm currently interested in game development, full stack app development,
 competitive programming, machine learning, and augmented/virtual reality.
 
-# ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=billgan1024.billgan1024)
-
   <h2><a href="https://billgan1024.github.io">My website</a></h2>
 
 <h2>Tech Stack</h2>
