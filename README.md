@@ -5,7 +5,7 @@
  </a>
 
  Hi, I'm Bill Gan. I'm currently interested in game development, full stack app development,
-competitive programming, machine learning, and augmented/virtual reality.
+mathematics, machine learning, and augmented/virtual reality.
 
   <h2><a href="https://billgan1024.github.io">My website</a></h2>
 
